@@ -1,6 +1,7 @@
 # chord_gen
 
 Converts the chords specified in a file called 'notes' to pdf files.
+
 The 'notes' file might look as follows:
 
 ```
@@ -17,11 +18,13 @@ Run python chord_gen.py --help to check available options. Don't forget to set t
 # tabs_gen
 
 Example: run ` python tabs_gen.py DustintheWind-Kansas`.
+
 This creates an image containing the tabs specified in the file DustintheWind-Kansas.
 
-The source files are structured as follows:
+### source-file structure
 
 1st line: Title. This can be any string
+
 Following lines: one of the following
 
 * a,b,c,d,e,f 
