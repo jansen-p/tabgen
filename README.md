@@ -23,7 +23,9 @@ This creates an image containing the tabs specified in the file DustintheWind-Ka
 
 ### source-file structure
 
-1st line: Title. This can be any string
+1st line: <Width\>x<Height\>
+2nd line: rows=<number\>
+3rd line: Title. This can be any string
 
 Following lines: one of the following
 
